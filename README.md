@@ -7,8 +7,10 @@ This document outlines how Tom and Jerry collaborated on the same repository usi
 ## The images below shows git commands for the collaboration.
 
 - Terminal
-![terminal](images/terminal.png)
+  ![terminal](images/terminal.png)
 
+- Github Repo
+  ![github](images/github.png)
 
 ## The steps below show how Tom and Jerry Collaborate Together
 
