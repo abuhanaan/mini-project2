@@ -12,6 +12,17 @@ This document outlines how Tom and Jerry collaborated on the same repository usi
 - Github Repo
   ![github](images/github.png)
 
+- The screen below show github page after merging update-navigation branch to main branch
+  ![github](images/github2.png)
+
+- The screen-shots below illustrates simulation of Jerry's collaboration by creating a new branch called `add-contact-info`, making changes to the branch and eventually commiting and pushing to the remote repository
+  ![terminal](images/terminal2.png)
+
+![terminal](images/terminal3.png)
+
+- The screen-shot below shows the github repo page after changes have been pushed to the `add-contact-info` branch
+  ![github](images/github3.png)
+
 ## The steps below show how Tom and Jerry Collaborate Together
 
 ## 🔄 Step 1: Clone the Repository
